@@ -34,6 +34,11 @@ for i in range(2):
     template.insert(roast, roast_prefix, 5, 60+70*i)
     template.set_text('%stspan2411-1-5'%roast_prefix, description['date'] if 'date' in description else '')
     
+    for j in range(1, 6):
+        template.set_text('%stemp%d'%(roast_prefix, j), '')
+    
+    for j in range(1, 5):
+        template.set_text('%stime%d'%(roast_prefix, j), '')
 
 template.store(output_filename)
 

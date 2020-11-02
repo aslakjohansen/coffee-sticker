@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="200.16476"
-     inkscape:cy="129.24756"
+     inkscape:zoom="3.959798"
+     inkscape:cx="183.82282"
+     inkscape:cy="-11.366031"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -459,5 +459,104 @@
          x="4.5411258"
          id="tspan2411-1-5"
          sodipodi:role="line">DATE</tspan></text>
+    <text
+       id="temp1"
+       y="285"
+       x="10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="285"
+         x="10"
+         id="tspan2411-1-5-1"
+         sodipodi:role="line">123</tspan></text>
+    <text
+       id="temp2"
+       y="285"
+       x="30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="285"
+         x="30"
+         id="tspan2411-1-5-1-7"
+         sodipodi:role="line">123</tspan></text>
+    <text
+       id="temp3"
+       y="285"
+       x="50"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="285"
+         x="50"
+         id="tspan2411-1-5-1-9"
+         sodipodi:role="line">123</tspan></text>
+    <text
+       id="temp4"
+       y="285"
+       x="70"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="285"
+         x="70"
+         id="tspan2411-1-5-1-1"
+         sodipodi:role="line">123</tspan></text>
+    <text
+       id="temp5"
+       y="285"
+       x="90"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="285"
+         x="90"
+         id="tspan2411-1-5-1-76"
+         sodipodi:role="line">123</tspan></text>
+    <text
+       id="time1"
+       y="294"
+       x="20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="294"
+         x="20"
+         id="tspan2411-1-5-1-0"
+         sodipodi:role="line">1m17s</tspan></text>
+    <text
+       id="time2"
+       y="294"
+       x="40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="294"
+         x="40"
+         id="tspan2411-1-5-1-0-5"
+         sodipodi:role="line">1m17s</tspan></text>
+    <text
+       id="time3"
+       y="294"
+       x="60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="294"
+         x="60"
+         id="tspan2411-1-5-1-0-9"
+         sodipodi:role="line">1m17s</tspan></text>
+    <text
+       id="time4"
+       y="294"
+       x="80"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre DejaVu Math';-inkscape-font-specification:'TeX Gyre DejaVu Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="294"
+         x="80"
+         id="tspan2411-1-5-1-0-1"
+         sodipodi:role="line">1m17s</tspan></text>
   </g>
 </svg>
